@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE52CD3-8140-4A62-9E8C-EF5614CF7F47}|CentralAPI\\CentralServiceAPI.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\centralapi\\centralapi\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE52CD3-8140-4A62-9E8C-EF5614CF7F47}|CentralAPI\\CentralServiceAPI.csproj|solutionrelative:centralapi\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018B4E2C-4FFB-42C1-8A6F-475221D46731}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\centralapi\\servicelayer\\services\\platformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018B4E2C-4FFB-42C1-8A6F-475221D46731}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\platformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\centralapi\\dataaccess\\data\\platformrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\platformrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B309F8-BE40-43DB-81C0-98A7E3086E9F}|CentralTests\\CentralTests.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\centralapi\\centraltests\\tests\\platformtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B309F8-BE40-43DB-81C0-98A7E3086E9F}|CentralTests\\CentralTests.csproj|solutionrelative:centraltests\\tests\\platformtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018B4E2C-4FFB-42C1-8A6F-475221D46731}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\centralapi\\servicelayer\\interfaces\\iplatformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018B4E2C-4FFB-42C1-8A6F-475221D46731}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\interfaces\\iplatformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018B4E2C-4FFB-42C1-8A6F-475221D46731}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\centralapi\\servicelayer\\mappers\\platformmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018B4E2C-4FFB-42C1-8A6F-475221D46731}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\mappers\\platformmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE52CD3-8140-4A62-9E8C-EF5614CF7F47}|CentralAPI\\CentralServiceAPI.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\centralapi\\centralapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE52CD3-8140-4A62-9E8C-EF5614CF7F47}|CentralAPI\\CentralServiceAPI.csproj|solutionrelative:centralapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\centralapi\\dataaccess\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\centralapi\\dataaccess\\dto\\platformcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dto\\platformcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\centralapi\\dataaccess\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\centralapi\\dataaccess\\data\\iplatformrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\iplatformrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\centralapi\\dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B309F8-BE40-43DB-81C0-98A7E3086E9F}|CentralTests\\CentralTests.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\centralapi\\centraltests\\mockdata\\platformmockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B309F8-BE40-43DB-81C0-98A7E3086E9F}|CentralTests\\CentralTests.csproj|solutionrelative:centraltests\\mockdata\\platformmockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B309F8-BE40-43DB-81C0-98A7E3086E9F}|CentralTests\\CentralTests.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\centralapi\\centraltests\\centraltests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00B309F8-BE40-43DB-81C0-98A7E3086E9F}|CentralTests\\CentralTests.csproj|solutionrelative:centraltests\\centraltests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlatformMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\ServiceLayer\\Mappers\\PlatformMapper.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Mappers\\PlatformMapper.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\ServiceLayer\\Mappers\\PlatformMapper.cs",
+              "RelativeToolTip": "ServiceLayer\\Mappers\\PlatformMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:27:31.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlatformService.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\ServiceLayer\\Services\\PlatformService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\PlatformService.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\ServiceLayer\\Services\\PlatformService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\PlatformService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:19:54.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\CentralAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CentralAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\CentralAPI\\Program.cs",
+              "RelativeToolTip": "CentralAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:27:07.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlatformTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\CentralTests\\Tests\\PlatformTests.cs",
+              "RelativeDocumentMoniker": "CentralTests\\Tests\\PlatformTests.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\CentralTests\\Tests\\PlatformTests.cs",
+              "RelativeToolTip": "CentralTests\\Tests\\PlatformTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:04:16.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlatformCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\DataAccess\\DTO\\PlatformCreateDTO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DTO\\PlatformCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\DataAccess\\DTO\\PlatformCreateDTO.cs",
+              "RelativeToolTip": "DataAccess\\DTO\\PlatformCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:27:07.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlatformsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\CentralAPI\\Controllers\\PlatformsController.cs",
+              "RelativeDocumentMoniker": "CentralAPI\\Controllers\\PlatformsController.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\CentralAPI\\Controllers\\PlatformsController.cs",
+              "RelativeToolTip": "CentralAPI\\Controllers\\PlatformsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:27:07.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\DataAccess\\Models\\Platform.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Platform.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\DataAccess\\Models\\Platform.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Platform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:27:07.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlatformRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\DataAccess\\Data\\PlatformRepo.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\PlatformRepo.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\DataAccess\\Data\\PlatformRepo.cs",
+              "RelativeToolTip": "DataAccess\\Data\\PlatformRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:27:07.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPlatformService.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\ServiceLayer\\Interfaces\\IPlatformService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Interfaces\\IPlatformService.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\ServiceLayer\\Interfaces\\IPlatformService.cs",
+              "RelativeToolTip": "ServiceLayer\\Interfaces\\IPlatformService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:21:01.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PrepDb.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\DataAccess\\Data\\PrepDb.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\PrepDb.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\DataAccess\\Data\\PrepDb.cs",
+              "RelativeToolTip": "DataAccess\\Data\\PrepDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:27:07.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPlatformRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\DataAccess\\Data\\IPlatformRepo.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\IPlatformRepo.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\DataAccess\\Data\\IPlatformRepo.cs",
+              "RelativeToolTip": "DataAccess\\Data\\IPlatformRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:27:07.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\DataAccess\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\DataAccess\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccess\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:27:07.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlatformMockData.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\CentralTests\\MockData\\PlatformMockData.cs",
+              "RelativeDocumentMoniker": "CentralTests\\MockData\\PlatformMockData.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\CentralTests\\MockData\\PlatformMockData.cs",
+              "RelativeToolTip": "CentralTests\\MockData\\PlatformMockData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:31:51.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CentralTests",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\CentralTests\\CentralTests.csproj",
+              "RelativeDocumentMoniker": "CentralTests\\CentralTests.csproj",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\CentralAPI\\CentralTests\\CentralTests.csproj",
+              "RelativeToolTip": "CentralTests\\CentralTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T16:29:31.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "noNLySrv8pdxjiEnja6hHP3/JJgeTmwgDTJpkEbfTHY=",
+  "Source": "CentralServiceAPI",
+  "BasePath": "_content/CentralServiceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
