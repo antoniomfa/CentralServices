@@ -6,7 +6,7 @@ namespace ServiceLayer.Interfaces
     {
         IEnumerable<PlatformReadDTO> GetAll();
         PlatformReadDTO GetById(int id);
-        void Create(PlatformCreateDTO platform);
+        PlatformReadDTO Create(PlatformCreateDTO platform);
         bool SaveChanges();
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\ServiceLayer\\ServiceLayer.csproj": {}
+    "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\ServiceLayer\\ServiceLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\António\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\António\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\ServiceLayer\\ServiceLayer.csproj": {
+    "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\ServiceLayer\\ServiceLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\ServiceLayer\\ServiceLayer.csproj",
+        "projectUniqueName": "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\ServiceLayer\\ServiceLayer.csproj",
         "projectName": "ServiceLayer",
-        "projectPath": "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\ServiceLayer\\ServiceLayer.csproj",
+        "projectPath": "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\ServiceLayer\\ServiceLayer.csproj",
         "packagesPath": "C:\\Users\\António\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\ServiceLayer\\obj\\",
+        "outputPath": "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\ServiceLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\António\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -110,8 +110,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\DataAccess\\DataAccess.csproj"
               }
             }
           }

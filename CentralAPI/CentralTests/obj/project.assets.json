@@ -4443,11 +4443,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\CentralTests\\CentralTests.csproj",
+      "projectUniqueName": "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\CentralTests\\CentralTests.csproj",
       "projectName": "CentralTests",
-      "projectPath": "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\CentralTests\\CentralTests.csproj",
+      "projectPath": "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\CentralTests\\CentralTests.csproj",
       "packagesPath": "C:\\Users\\António\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\CentralTests\\obj\\",
+      "outputPath": "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\CentralTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\António\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4465,11 +4465,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\CentralAPI\\CentralServiceAPI.csproj": {
-              "projectPath": "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\CentralAPI\\CentralServiceAPI.csproj"
+            "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\CentralAPI\\CentralServiceAPI.csproj": {
+              "projectPath": "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\CentralAPI\\CentralServiceAPI.csproj"
             },
-            "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\DataAccess\\DataAccess.csproj"
             }
           }
         }

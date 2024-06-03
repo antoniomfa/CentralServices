@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KIYlTAkkpQA=",
+  "dgSpecHash": "7fr24GG9hIc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\CentralTests\\CentralTests.csproj",
+  "projectFilePath": "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\CentralTests\\CentralTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\António\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\António\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

@@ -39,5 +39,15 @@ namespace CentralServiceAPI.Controllers
 
             return NotFound();
         }
+
+        [HttpPost]
+        public ActionResult<PlatformReadDTO> Create(PlatformCreateDTO platformCreateDTO)
+        {
+            System.Diagnostics.Debug.WriteLine("--> Creating ...");
+
+            PlatformReadDTO platformModel = _platService.Create(platformCreateDTO);
+
+            return CreatedAtRoute(nameof(GetById), new { Id = platformModel.Id }, platformModel);
+        }
     }
 }

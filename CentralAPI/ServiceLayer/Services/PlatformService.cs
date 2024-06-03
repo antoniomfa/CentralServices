@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using CentralService.DataAccess.Data;
 using CentralService.DataAccess.DTO;
+using CentralService.DataAccess.Models;
 using ServiceLayer.Interfaces;
 
 namespace ServiceLayer.Services
@@ -16,9 +17,16 @@ namespace ServiceLayer.Services
             _repo = repo;
         }
 
-        public void Create(PlatformCreateDTO platform)
+        public PlatformReadDTO Create(PlatformCreateDTO platformCreateDTO)
         {
-            throw new NotImplementedException();
+            var platformModel = _mapper.Map<Platform>(platformCreateDTO);
+
+            _repo.Create(platformModel);
+            _repo.SaveChanges();
+
+            var platformRead = _mapper.Map<PlatformReadDTO>(platformModel);
+
+            return platformRead;
         }
 
         public IEnumerable<PlatformReadDTO> GetAll()

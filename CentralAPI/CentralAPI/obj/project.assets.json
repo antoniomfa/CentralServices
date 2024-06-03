@@ -3558,11 +3558,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\CentralAPI\\CentralServiceAPI.csproj",
+      "projectUniqueName": "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\CentralAPI\\CentralServiceAPI.csproj",
       "projectName": "CentralServiceAPI",
-      "projectPath": "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\CentralAPI\\CentralServiceAPI.csproj",
+      "projectPath": "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\CentralAPI\\CentralServiceAPI.csproj",
       "packagesPath": "C:\\Users\\António\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\CentralAPI\\obj\\",
+      "outputPath": "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\CentralAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\António\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3580,11 +3580,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\ServiceLayer\\ServiceLayer.csproj": {
-              "projectPath": "C:\\Users\\António\\Documents\\Programming\\CentralAPI\\ServiceLayer\\ServiceLayer.csproj"
+            "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\ServiceLayer\\ServiceLayer.csproj": {
+              "projectPath": "C:\\Users\\António\\Documents\\Programming\\MicroservicesBase\\CentralAPI\\ServiceLayer\\ServiceLayer.csproj"
             }
           }
         }
