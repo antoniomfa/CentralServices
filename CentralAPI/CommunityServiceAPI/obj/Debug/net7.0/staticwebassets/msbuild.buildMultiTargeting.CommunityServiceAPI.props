@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CommunityServiceAPI.props" />
+</Project>

@@ -1,0 +1,18 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: platforms-depl
+spec: 
+  replicas: 1
+  selector:
+    matchLabels: 
+      app: centralapi
+  template:
+    metadata:
+      labels: 
+        app: centralapi
+    spec:
+      containers:
+        - name: centralapi
+          image: antonioaires/centralserviceapi:latest
+
