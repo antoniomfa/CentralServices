@@ -1,31 +1,31 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: platforms-depl
+  name: community-depl
 spec: 
   replicas: 1
   selector:
     matchLabels: 
-      app: centralapi
+      app: communityservice
   template:
     metadata:
       labels: 
-        app: centralapi
+        app: communityservice
     spec:
       containers:
-        - name: centralapi
-          image: antonioaires/centralserviceapi:latest
+        - name: communityservice
+          image: antonioaires/communityserviceapi:latest
 ---
 apiVersion: v1
 kind: Service
 metadata: 
-  name: platforms-clusterip-srv
+  name: community-clusterip-srv
 spec: 
   type: ClusterIP
   selector: 
-    app: centralapi
+    app: communityservice
   ports:
-  - name: centralapi
+  - name: communityservice
     protocol: TCP
     port: 80
     targetPort: 80

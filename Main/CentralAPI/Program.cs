@@ -19,6 +19,8 @@ builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddScoped<IPlatformRepo, PlatformRepo>();
 builder.Services.AddScoped<IPlatformService, PlatformService>();
 
+builder.Services.AddHttpClient<ICommandDataClient, HttpCommandDataClient>();    
+
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())

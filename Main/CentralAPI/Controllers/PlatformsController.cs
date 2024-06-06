@@ -1,4 +1,5 @@
-﻿using CentralService.DataAccess.DTO;
+﻿using AutoMapper;
+using CentralService.DataAccess.DTO;
 using Microsoft.AspNetCore.Mvc;
 using ServiceLayer.Interfaces;
 
@@ -9,10 +10,12 @@ namespace CentralServiceAPI.Controllers
     public class PlatformsController : ControllerBase
     {
         private readonly IPlatformService _platService;
+        private readonly ICommandDataClient _commandDataClient;        
 
-        public PlatformsController(IPlatformService platService)
+        public PlatformsController(IPlatformService platService, ICommandDataClient commandDataClient)
         {
             _platService = platService;
+            _commandDataClient = commandDataClient;
         }
 
         [HttpGet]
@@ -41,11 +44,20 @@ namespace CentralServiceAPI.Controllers
         }
 
         [HttpPost]
-        public ActionResult<PlatformReadDTO> Create(PlatformCreateDTO platformCreateDTO)
+        public async Task<ActionResult<PlatformReadDTO>> Create(PlatformCreateDTO platformCreateDTO)
         {
             System.Diagnostics.Debug.WriteLine("--> Creating ...");
 
             PlatformReadDTO platformModel = _platService.Create(platformCreateDTO);
+
+            try
+            {
+                await _commandDataClient.SendPlatformToCommunity(platformModel);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"--> Could not send synchronously: {ex.Message}");
+            }
 
             return CreatedAtRoute(nameof(GetById), new { Id = platformModel.Id }, platformModel);
         }
