@@ -11,24 +11,12 @@
       "RelativeMoniker": "D:0:0:{3DE52CD3-8140-4A62-9E8C-EF5614CF7F47}|CentralAPI\\CentralServiceAPI.csproj|solutionrelative:centralapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DE52CD3-8140-4A62-9E8C-EF5614CF7F47}|CentralAPI\\CentralServiceAPI.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\centralapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3DE52CD3-8140-4A62-9E8C-EF5614CF7F47}|CentralAPI\\CentralServiceAPI.csproj|solutionrelative:centralapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DE52CD3-8140-4A62-9E8C-EF5614CF7F47}|CentralAPI\\CentralServiceAPI.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\centralapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3DE52CD3-8140-4A62-9E8C-EF5614CF7F47}|CentralAPI\\CentralServiceAPI.csproj|solutionrelative:centralapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3DE52CD3-8140-4A62-9E8C-EF5614CF7F47}|CentralAPI\\CentralServiceAPI.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\centralapi\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE52CD3-8140-4A62-9E8C-EF5614CF7F47}|CentralAPI\\CentralServiceAPI.csproj|solutionrelative:centralapi\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D065126E-EC92-49F7-A5FF-22C913F466C3}|CommunityServiceAPI\\CommunityServiceAPI.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\communityserviceapi\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D065126E-EC92-49F7-A5FF-22C913F466C3}|CommunityServiceAPI\\CommunityServiceAPI.csproj|solutionrelative:communityserviceapi\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{018B4E2C-4FFB-42C1-8A6F-475221D46731}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\servicelayer\\services\\httpcommanddataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{018B4E2C-4FFB-42C1-8A6F-475221D46731}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\httpcommanddataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DE52CD3-8140-4A62-9E8C-EF5614CF7F47}|CentralAPI\\CentralServiceAPI.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\centralapi\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DE52CD3-8140-4A62-9E8C-EF5614CF7F47}|CentralAPI\\CentralServiceAPI.csproj|solutionrelative:centralapi\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,14 +36,14 @@
               "RelativeDocumentMoniker": "DataAccess\\Data\\PrepDb.cs",
               "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\DataAccess\\Data\\PrepDb.cs",
               "RelativeToolTip": "DataAccess\\Data\\PrepDb.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAUAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwB4AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T14:46:00.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "PlatformsController.cs",
               "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\CommunityServiceAPI\\Controllers\\PlatformsController.cs",
               "RelativeDocumentMoniker": "CommunityServiceAPI\\Controllers\\PlatformsController.cs",
@@ -69,38 +57,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.Production.json",
-              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\CentralAPI\\appsettings.Production.json",
-              "RelativeDocumentMoniker": "CentralAPI\\appsettings.Production.json",
-              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\CentralAPI\\appsettings.Production.json",
-              "RelativeToolTip": "CentralAPI\\appsettings.Production.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-06T14:30:34.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\CentralAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "CentralAPI\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\CentralAPI\\appsettings.Development.json",
-              "RelativeToolTip": "CentralAPI\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-06T14:29:32.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "PlatformsController.cs",
               "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\CentralAPI\\Controllers\\PlatformsController.cs",
               "RelativeDocumentMoniker": "CentralAPI\\Controllers\\PlatformsController.cs",
               "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\CentralAPI\\Controllers\\PlatformsController.cs",
               "RelativeToolTip": "CentralAPI\\Controllers\\PlatformsController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAYwDYAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T14:17:51.659Z",
               "EditorCaption": ""
@@ -113,22 +75,9 @@
               "RelativeDocumentMoniker": "CentralAPI\\Program.cs",
               "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\CentralAPI\\Program.cs",
               "RelativeToolTip": "CentralAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T14:16:47.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HttpCommandDataClient.cs",
-              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\ServiceLayer\\Services\\HttpCommandDataClient.cs",
-              "RelativeDocumentMoniker": "ServiceLayer\\Services\\HttpCommandDataClient.cs",
-              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\ServiceLayer\\Services\\HttpCommandDataClient.cs",
-              "RelativeToolTip": "ServiceLayer\\Services\\HttpCommandDataClient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBkAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T13:27:08.126Z",
               "EditorCaption": ""
             }
           ]

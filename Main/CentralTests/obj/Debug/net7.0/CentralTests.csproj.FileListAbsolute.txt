@@ -156,3 +156,13 @@ C:\Users\António\Documents\Programming\CentralAPI\CentralTests\obj\Debug\net7.0
 C:\Users\António\Documents\Programming\CentralAPI\CentralTests\obj\Debug\net7.0\ref\CentralTests.dll
 C:\Users\António\Documents\Programming\CentralAPI\CentralTests\bin\Debug\net7.0\ServiceLayer.dll
 C:\Users\António\Documents\Programming\CentralAPI\CentralTests\bin\Debug\net7.0\ServiceLayer.pdb
+C:\Users\António\Documents\Programming\MicroservicesBase\Main\CentralTests\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\António\Documents\Programming\MicroservicesBase\Main\CentralTests\obj\Debug\net7.0\CentralTests.csproj.AssemblyReference.cache
+C:\Users\António\Documents\Programming\MicroservicesBase\Main\CentralTests\obj\Debug\net7.0\CentralTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\António\Documents\Programming\MicroservicesBase\Main\CentralTests\obj\Debug\net7.0\CentralTests.AssemblyInfoInputs.cache
+C:\Users\António\Documents\Programming\MicroservicesBase\Main\CentralTests\obj\Debug\net7.0\CentralTests.AssemblyInfo.cs
+C:\Users\António\Documents\Programming\MicroservicesBase\Main\CentralTests\obj\Debug\net7.0\CentralTests.csproj.CoreCompileInputs.cache
+C:\Users\António\Documents\Programming\MicroservicesBase\Main\CentralTests\obj\Debug\net7.0\CentralTests.sourcelink.json
+C:\Users\António\Documents\Programming\MicroservicesBase\Main\CentralTests\obj\Debug\net7.0\CentralTests.dll
+C:\Users\António\Documents\Programming\MicroservicesBase\Main\CentralTests\obj\Debug\net7.0\refint\CentralTests.dll
+C:\Users\António\Documents\Programming\MicroservicesBase\Main\CentralTests\obj\Debug\net7.0\CentralTests.pdb
