@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using DataAccess.Models;
+using System.ComponentModel.DataAnnotations;
 
 namespace CentralService.DataAccess.Models
 {
@@ -13,5 +14,10 @@ namespace CentralService.DataAccess.Models
         public string Brand { get; set; }
         [Required]
         public string Cost { get; set; }
+
+        /// <summary>
+        /// Communities using this Platform
+        /// </summary>
+        public ICollection<Community> Communities { get; set; } = new List<Community>();
     }
 }

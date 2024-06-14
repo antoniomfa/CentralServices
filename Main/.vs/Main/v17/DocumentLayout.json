@@ -3,20 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\dataaccess\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D065126E-EC92-49F7-A5FF-22C913F466C3}|CommunityServiceAPI\\CommunityServiceAPI.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\communityserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D065126E-EC92-49F7-A5FF-22C913F466C3}|CommunityServiceAPI\\CommunityServiceAPI.csproj|solutionrelative:communityserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DE52CD3-8140-4A62-9E8C-EF5614CF7F47}|CentralAPI\\CentralServiceAPI.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\centralapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DE52CD3-8140-4A62-9E8C-EF5614CF7F47}|CentralAPI\\CentralServiceAPI.csproj|solutionrelative:centralapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\dataaccess\\models\\community.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\community.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\dataaccess\\dto\\communitycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dto\\communitycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\dataaccess\\dto\\communityreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dto\\communityreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\dataaccess\\data\\communityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\communityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\dataaccess\\data\\icommunityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\icommunityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\dataaccess\\data\\iplatformrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\iplatformrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\dataaccess\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DE52CD3-8140-4A62-9E8C-EF5614CF7F47}|CentralAPI\\CentralServiceAPI.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\centralapi\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DE52CD3-8140-4A62-9E8C-EF5614CF7F47}|CentralAPI\\CentralServiceAPI.csproj|solutionrelative:centralapi\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3DE52CD3-8140-4A62-9E8C-EF5614CF7F47}|CentralAPI\\CentralServiceAPI.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\centralapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE52CD3-8140-4A62-9E8C-EF5614CF7F47}|CentralAPI\\CentralServiceAPI.csproj|solutionrelative:centralapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D065126E-EC92-49F7-A5FF-22C913F466C3}|CommunityServiceAPI\\CommunityServiceAPI.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\communityserviceapi\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D065126E-EC92-49F7-A5FF-22C913F466C3}|CommunityServiceAPI\\CommunityServiceAPI.csproj|solutionrelative:communityserviceapi\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|c:\\users\\ant\u00F3nio\\documents\\programming\\microservicesbase\\main\\dataaccess\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF4D2C4-9D72-4733-9663-56681FE5B669}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,51 +67,168 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\CommunityServiceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CommunityServiceAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\CommunityServiceAPI\\Program.cs",
+              "RelativeToolTip": "CommunityServiceAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:00:20.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommunityCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\DataAccess\\DTO\\CommunityCreateDTO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DTO\\CommunityCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\DataAccess\\DTO\\CommunityCreateDTO.cs",
+              "RelativeToolTip": "DataAccess\\DTO\\CommunityCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:59:32.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommunityReadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\DataAccess\\DTO\\CommunityReadDTO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DTO\\CommunityReadDTO.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\DataAccess\\DTO\\CommunityReadDTO.cs",
+              "RelativeToolTip": "DataAccess\\DTO\\CommunityReadDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:58:32.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommunityRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\DataAccess\\Data\\CommunityRepo.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\CommunityRepo.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\DataAccess\\Data\\CommunityRepo.cs",
+              "RelativeToolTip": "DataAccess\\Data\\CommunityRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:53:20.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPlatformRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\DataAccess\\Data\\IPlatformRepo.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\IPlatformRepo.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\DataAccess\\Data\\IPlatformRepo.cs",
+              "RelativeToolTip": "DataAccess\\Data\\IPlatformRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:51:28.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICommunityRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\DataAccess\\Data\\ICommunityRepo.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\ICommunityRepo.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\DataAccess\\Data\\ICommunityRepo.cs",
+              "RelativeToolTip": "DataAccess\\Data\\ICommunityRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:51:17.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\DataAccess\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\DataAccess\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccess\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:47:56.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\DataAccess\\Models\\Platform.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Platform.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\DataAccess\\Models\\Platform.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Platform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:45:10.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Community.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\DataAccess\\Models\\Community.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Community.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\DataAccess\\Models\\Community.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Community.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:42:46.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "PrepDb.cs",
               "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\DataAccess\\Data\\PrepDb.cs",
               "RelativeDocumentMoniker": "DataAccess\\Data\\PrepDb.cs",
               "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\DataAccess\\Data\\PrepDb.cs",
               "RelativeToolTip": "DataAccess\\Data\\PrepDb.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAgwB4AAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T14:46:00.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "PlatformsController.cs",
               "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\CommunityServiceAPI\\Controllers\\PlatformsController.cs",
               "RelativeDocumentMoniker": "CommunityServiceAPI\\Controllers\\PlatformsController.cs",
               "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\CommunityServiceAPI\\Controllers\\PlatformsController.cs",
               "RelativeToolTip": "CommunityServiceAPI\\Controllers\\PlatformsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T14:41:54.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "PlatformsController.cs",
               "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\CentralAPI\\Controllers\\PlatformsController.cs",
               "RelativeDocumentMoniker": "CentralAPI\\Controllers\\PlatformsController.cs",
               "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\CentralAPI\\Controllers\\PlatformsController.cs",
               "RelativeToolTip": "CentralAPI\\Controllers\\PlatformsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCUAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T14:17:51.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\CentralAPI\\Program.cs",
               "RelativeDocumentMoniker": "CentralAPI\\Program.cs",
               "ToolTip": "C:\\Users\\Ant\u00F3nio\\Documents\\Programming\\MicroservicesBase\\Main\\CentralAPI\\Program.cs",
               "RelativeToolTip": "CentralAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T14:16:47.301Z",
               "EditorCaption": ""

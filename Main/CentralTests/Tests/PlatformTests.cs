@@ -1,30 +1,34 @@
 using Moq;
+using AutoMapper;
+using ServiceLayer.Services;
+using CentralTests.MockData;
+using ServiceLayer.Interfaces;
+using Microsoft.AspNetCore.Mvc;
+using CentralServiceAPI.Controllers;
+using CentralService.DataAccess.DTO;
 using CentralService.DataAccess.Data;
 using CentralService.DataAccess.Models;
-using CentralServiceAPI.Controllers;
-using CentralTests.MockData;
-using Microsoft.AspNetCore.Mvc;
-using ServiceLayer.Interfaces;
-using ServiceLayer.Services;
-using AutoMapper;
-using CentralService.DataAccess.DTO;
+using Microsoft.Extensions.Configuration;
 
 namespace CentralTests.Tests
 {
     public class PlatformTests 
     {
-        private Mock<IPlatformRepo> PlatformRepo;
-        private IPlatformService PlateformService;
-        private PlatformsController Controller;
+        private Mock<IPlatformRepo> platformRepo;
+        private IPlatformService plateformService;
+        private PlatformsController controller;
         private IMapper _mapper;
+        private ICommandDataClient commandDataClient;
+        private HttpClient httpClient;
+        private readonly IConfiguration configuration;
 
         public PlatformTests()
         {
             IEnumerable<Platform> platforms = new PlatformMockData().Platforms;
 
-            PlatformRepo = new Mock<IPlatformRepo>();           
+            platformRepo = new Mock<IPlatformRepo>();           
 
-            PlatformRepo.Setup(x => x.GetAll()).Returns(platforms);
+            platformRepo.Setup(x => x.GetAll()).Returns(platforms);
 
             // Mappers
             var config = new MapperConfiguration(x =>
@@ -34,8 +38,10 @@ namespace CentralTests.Tests
 
             _mapper = config.CreateMapper();
 
-            PlateformService = new PlatformService(PlatformRepo.Object, _mapper);
-            Controller = new PlatformsController(PlateformService);
+            plateformService = new PlatformService(platformRepo.Object, _mapper);
+            httpClient = new HttpClient();
+            commandDataClient = new HttpCommandDataClient(httpClient, configuration);
+            controller = new PlatformsController(plateformService, commandDataClient);
         }
 
         [Fact]
@@ -44,8 +50,8 @@ namespace CentralTests.Tests
             // Arrange                      
 
             // Act
-            var response = Controller.GetAll();
-            PlatformRepo.Verify(x => x.GetAll(), Times.Once);
+            var response = controller.GetAll();
+            platformRepo.Verify(x => x.GetAll(), Times.Once);
 
             // Assert
             OkObjectResult result = Assert.IsType<OkObjectResult>(response.Result);
@@ -66,8 +72,8 @@ namespace CentralTests.Tests
             //PlatformRepo.Setup(x => x.GetAll()).Throws(null);
 
             // Act
-            var response = Controller.GetAll();
-            PlatformRepo.Verify(x => x.GetAll(), Times.Once);
+            var response = controller.GetAll();
+            platformRepo.Verify(x => x.GetAll(), Times.Once);
 
             // Assert
             OkObjectResult result = Assert.IsType<OkObjectResult>(response.Result);
