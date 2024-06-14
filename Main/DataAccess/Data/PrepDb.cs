@@ -1,21 +1,35 @@
 ﻿using CentralService.DataAccess.Models;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace CentralService.DataAccess.Data
 {
     public static class PrepDb
     {
-        public static void PrePopulate(IApplicationBuilder app)
+        public static void PrePopulate(IApplicationBuilder app, bool isProduction)
         {
             using (var serviceScope = app.ApplicationServices.CreateScope())
             {
-                Seed(serviceScope.ServiceProvider.GetService<AppDbContext>());
+                Seed(serviceScope.ServiceProvider.GetService<AppDbContext>(), isProduction);
             }
         }
 
-        private static void Seed(AppDbContext dbContext)
+        private static void Seed(AppDbContext dbContext, bool isProduction)
         {
+            if (isProduction)
+            {
+                try
+                {
+                    Console.WriteLine("--> Applying Migrations ...");
+                    dbContext.Database.Migrate();
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"--> Could not run Migrations: {ex.Message}");
+                }
+            }
+
             // If clean
             if (!dbContext.Platforms.Any())
             {
